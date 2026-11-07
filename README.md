@@ -1,0 +1,2 @@
+# Workforce-Analytics-Attendance-Productivity-Monitoring-System
+An Excel-based Workforce Analytics solution designed to centralize attendance monitoring, schedule adherence, and productivity tracking in contact center operations.  This project addresses the challenge of managing operational data across multiple sources, providing a structured approach to identifying attendance discrepancies, tendencies and more
